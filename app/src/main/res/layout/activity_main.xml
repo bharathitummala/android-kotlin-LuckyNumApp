@@ -25,18 +25,20 @@
 
     <EditText
         android:id="@+id/etTxt"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="382dp"
+        android:layout_height="50dp"
         android:ems="10"
         android:hint="@string/please_enter_your_name"
         android:inputType="text"
+        android:textColor="#FFFFFF"
+        android:textColorHint="#30416D"
         android:textSize="24sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.587"
+        app:layout_constraintHorizontal_bias="0.551"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.394"
+        app:layout_constraintVertical_bias="0.393"
         tools:ignore="MissingConstraints" />
 
     <Button
