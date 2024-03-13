@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">LuckyNumber</string>
+    <string name="welcome_to_lucky_number">Welcome to Lucky Number</string>
+    <string name="please_enter_your_name">Please enter your name</string>
 </resources>
